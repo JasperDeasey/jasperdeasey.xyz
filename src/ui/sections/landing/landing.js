@@ -56,9 +56,7 @@ const Landing= () => {
                 <div className={'spacer'}/>
                 <div className={'bounce'}>
                     <ScrollAnimation animateIn='animate__fadeIn' offset={0} delay={4000} animateOnce={true}>
-                        <Link className={'arrow'} href={'#about'}>
-                            <KeyboardArrowDownIcon className={'down-icon'} fontSize="large"/>
-                        </Link>
+                        <KeyboardArrowDownIcon className={'down-icon'} fontSize="large"/>
                     </ScrollAnimation>
                 </div>
             </div>
