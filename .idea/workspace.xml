@@ -2,51 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e06cdb20-1cff-44cf-a185-77af32c7caa0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/joshua-tree.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/bus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/country-blues.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/cowboys.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/dilly-boys.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/family-hawaii.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/garden-party.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/going-to-san-francisco.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/joshua-tree.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/last-brunch.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/penthaus.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/renaissance.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/wfp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/whistler-drinks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/whistler-pass.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/experience/experience.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/experience/experience.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/experience/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/header/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/header/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/profile-picture/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/profile-picture/profile-picture.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/profile-picture/profile-picture.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/project/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/project/project.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/components/project/project.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/about/about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/about/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/about/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/experiences/experiences.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/experiences/experiences.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/experiences/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/heading/heading.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/heading/heading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/heading/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/landing/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/landing/landing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/landing/landing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/projects/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/projects/projects.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ui/sections/projects/projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620619529142</updated>
-      <workItem from="1620619530309" duration="62812000" />
+      <workItem from="1620619530309" duration="64042000" />
     </task>
     <servers />
   </component>
