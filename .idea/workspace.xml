@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e06cdb20-1cff-44cf-a185-77af32c7caa0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/joshua-tree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/bus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/country-blues.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/cowboys.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/dilly-boys.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/family-hawaii.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/garden-party.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/going-to-san-francisco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/joshua-tree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/last-brunch.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/penthaus.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/renaissance.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/wfp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/whistler-drinks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/slideshow/whistler-pass.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/experience/experience.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/experience/experience.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/experience/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/header/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/profile-picture/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/profile-picture/profile-picture.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/profile-picture/profile-picture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/project/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/project/project.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/components/project/project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/about/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/about/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/about/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/experiences/experiences.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/experiences/experiences.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/experiences/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/heading/heading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/heading/heading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/heading/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/landing/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/landing/landing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/landing/landing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/projects/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/projects/projects.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ui/sections/projects/projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sKRvwZzd05MuFf0Wovn4CtJH9P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jaspe\Desktop\CPSC Projects\jasperdeasey\src\assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e06cdb20-1cff-44cf-a185-77af32c7caa0" name="Default Changelist" comment="" />
+      <created>1620619529142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620619529142</updated>
+      <workItem from="1620619530309" duration="62812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

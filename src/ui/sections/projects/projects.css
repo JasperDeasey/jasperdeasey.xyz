@@ -1,0 +1,13 @@
+.projects {
+
+}
+
+.project-display {
+    width: 75%;
+    margin: 25px;
+}
+
+.project-container {
+    display: flex;
+    justify-content: center;
+}

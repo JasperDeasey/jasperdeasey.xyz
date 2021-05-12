@@ -1,23 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import 'fontsource-roboto';
+import Landing from "./ui/sections/landing/landing";
+import About from "./ui/sections/about/about";
+import Projects from "./ui/sections/projects";
+import Experiences from "./ui/sections/experiences";
+import Heading from "./ui/sections/heading";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <Heading/>
+      <Landing/>
+      <About/>
+      <Projects/>
     </div>
   );
 }
