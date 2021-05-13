@@ -95,14 +95,14 @@ const Projects = (props) => {
               endTitle: (
                 <Link href={"https://youtu.be/x6mpdMFvoXE"}>Demo Video</Link>
               ),
-              subtitle: "CPSC 422: Advanced Software Engineering (A-)",
+              subtitle: "CPSC 410: Advanced Software Engineering (A-)",
               date: "Fall 2020",
               details: (
                 <div>
                   <p>
                     {" "}
                     This project was a data-visualization tool created for CPSC
-                    422. It is a web app created in Javascript which calls the
+                    410. It is a web app created in Javascript which calls the
                     Git api to gather data, processes the data, then uses D3 to
                     display it. It shows data from <u>all</u> public GitHub
                     repositories.{" "}
