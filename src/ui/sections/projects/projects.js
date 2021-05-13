@@ -76,7 +76,7 @@ const Projects = (props) => {
                   and I could book days on Whistler mountain. The website was
                   created with Python, with Selenium scraping the site to check
                   availability and Flask to create the website. The site is
-                  hosted on Linode's remote linux server
+                  hosted on Linode's remote linux server.
                 </p>
               ),
               media: (

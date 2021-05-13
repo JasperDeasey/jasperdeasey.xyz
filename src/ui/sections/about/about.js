@@ -20,7 +20,7 @@ const About = () => {
           <h4>Hi, I'm Jasper. Welcome to my website.</h4>
           <p className={"about-paragraph"}>
             I created this site to display my projects, as many of them are not
-            available on GitHub due to class/company rules. All the projects
+            available on GitHub due to class/company rules. Many of the projects
             I've worked on are displayed below, with short write-ups that
             describe them and videos (or other media) where available.
           </p>
