@@ -37,8 +37,8 @@ const Landing = () => {
             cursor={{
               show: true,
               blink: true,
-              element: "|",
-              hideWhenDone: false,
+              element: "",
+              hideWhenDone: true,
             }}
           >
             Hi, I'm...
