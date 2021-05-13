@@ -1,5 +1,5 @@
 body {
-  background-color: #FAF8F8;
+  background-color: #faf8f8;
   align-items: center;
   width: 100%;
   position: relative;
@@ -9,7 +9,6 @@ body {
 .App {
   text-align: center;
 }
-
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

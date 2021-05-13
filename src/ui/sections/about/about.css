@@ -1,22 +1,20 @@
-
 .about {
-
 }
 
 .write-up-container {
-    margin: 50px;
-    display: flex;
-    justify-content: center;
+  margin: 50px;
+  display: flex;
+  justify-content: center;
 }
 
 .write-up {
-    width: 80%;
+  width: 80%;
 }
 
 .about-paragraph {
-    text-align: left;
+  text-align: left;
 }
 
 .grid-container {
-    width: 90%;
+  width: 90%;
 }

@@ -1,8 +1,8 @@
 .experience-container {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .experience-display {
-    width: 85%;
+  width: 85%;
 }

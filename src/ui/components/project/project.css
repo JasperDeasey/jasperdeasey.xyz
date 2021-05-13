@@ -2,97 +2,93 @@
 }
 
 .title {
-    width: 100%;
-    display: block;
-    align-items: flex-start;
+  width: 100%;
+  display: block;
+  align-items: flex-start;
 }
 
 .main-title {
-    text-align: left;
+  text-align: left;
 }
 
 .sub-title {
-    text-align: left;
+  text-align: left;
 }
 
 .title-typography {
-    margin: 0;
+  margin: 0;
 }
 
 .end-title {
-    text-align: right;
-    align-items: center;
-    justify-content: center;
+  text-align: right;
+  align-items: center;
+  justify-content: center;
 }
 
 .date {
-    text-align: right;
+  text-align: right;
 }
 
 .MuiAccordionSummary-content {
-
 }
 
 .MuiAccordionDetails-root {
-    align-items: flex-start;
+  align-items: flex-start;
 }
 
 .MuiPaper-root.MuiAccordion-root.Mui-expanded.MuiAccordion-rounded.MuiPaper-elevation1.MuiPaper-rounded {
-    min-width: 700px;
+  min-width: 700px;
 }
 
 .accordion-details {
-    flex-direction: column;
-
+  flex-direction: column;
 }
 
 .accordion-summary {
-    align-items: center;
-    justify-content: space-between;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .project-details {
-    text-align: left;
-    display: flex;
-    width: 100%;
-    flex-flow: wrap;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: flex-start;
+  text-align: left;
+  display: flex;
+  width: 100%;
+  flex-flow: wrap;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
 }
 
 .MuiAccordionDetails-root {
-    /*display: flex;*/
+  /*display: flex;*/
 }
 
 .details-text-box {
-    display: inline-block;
-    padding-right: 15px;
-    padding-left: 15px;
-    line-height: 1.5;
-    width: 100%;
-    max-width: 400px;
+  display: inline-block;
+  padding-right: 15px;
+  padding-left: 15px;
+  line-height: 1.5;
+  width: 100%;
+  max-width: 400px;
 }
 
 p {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 .media {
-    display: inline-flex;
-    padding-right: 15px;
-    padding-left: 15px;
-    width: 640px;
-    margin-bottom: 50px;
-    justify-content: center;
+  display: inline-flex;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 640px;
+  margin-bottom: 50px;
+  justify-content: center;
 }
 
 .video {
-    width: 100% !important;
-    height: auto !important;
+  width: 100% !important;
+  height: auto !important;
 }
 
-
 .chip-list {
-
 }
