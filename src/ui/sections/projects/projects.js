@@ -46,7 +46,7 @@ const Projects = (props) => {
                   <li>Interacting with the backend's API</li>
                   <li>HTML and CSS styling</li>
                   <p>
-                    Also shown here is the user manual video we sent to
+                    Shown here is the user manual video we sent to
                     Associated Engineering. It is slightly boring, but gives a
                     good description of our team's project.
                   </p>
@@ -104,7 +104,7 @@ const Projects = (props) => {
                     This project was a data-visualization tool created for CPSC
                     410. It is a web app created in Javascript which calls the
                     Git api to gather data, processes the data, then uses D3 to
-                    display it. It shows data from <u>all</u> public GitHub
+                    display it. It shows data from all public GitHub
                     repositories.{" "}
                   </p>
                   <p>
@@ -122,14 +122,14 @@ const Projects = (props) => {
               endTitle: (
                 <Link href={"https://youtu.be/JY5vd4gAYz0"}>Demo Video</Link>
               ),
-              subtitle: "CPSC 422: Advanced Software Engineering (A-)",
+              subtitle: "CPSC 410: Advanced Software Engineering (A-)",
               date: "Fall 2020",
               details: (
                 <div>
                   <p>
                     {" "}
                     This project was a domain-specific language (a coding
-                    language our team made-up) created for CPSC 422. It was
+                    language our team made-up) created for CPSC 410. It was
                     created in Java, and used many of the topics learned in
                     class, including:{" "}
                   </p>

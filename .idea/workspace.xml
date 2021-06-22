@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e06cdb20-1cff-44cf-a185-77af32c7caa0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/sections/landing/landing.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/sections/landing/landing.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/sections/landing/landing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/sections/landing/landing.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Jason-s-Portfolio" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -75,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620619529142</updated>
       <workItem from="1620619530309" duration="65636000" />
-      <workItem from="1620924965389" duration="5436000" />
+      <workItem from="1620924965389" duration="6846000" />
     </task>
     <servers />
   </component>
