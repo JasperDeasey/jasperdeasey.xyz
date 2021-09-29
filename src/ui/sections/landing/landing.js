@@ -15,6 +15,7 @@ const TEXTS = [
   "not just a nerd...",
   "an avid skier",
   "learning to golf",
+  "4th-last in my fantasy football league"
 ];
 
 const Landing = () => {
